@@ -8,7 +8,7 @@ import tempfile
 def main():
     profe = input('Profesor: ')
     curso = input('Titulo curso: ')
-    duracion = input('Duración en hs: ')
+    hs = input('Duración en hs: ')
     nrores = input('resolucion nº: ')
     mes = input('mes: ')
     year = input('año: ')

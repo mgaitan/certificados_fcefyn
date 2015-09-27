@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.17)  27 SEP 2015 16:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.17)  27 SEP 2015 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/tmp/tmpopck11_e.tex
-(/tmp/tmpopck11_e.tex
+**/tmp/tmpsg0t7_7l.tex
+(/tmp/tmpsg0t7_7l.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -1470,337 +1470,6 @@ File: background.png Graphic file (type png)
 Package pdftex.def Info: background.png used on input line 122.
 (pdftex.def)             Requested size: 845.04933pt x 597.55817pt.
 [22]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.122  }
-        
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-LaTeX Font Info:    Calculating math sizes for size <19.19995> on input line 12
-2.
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <19.19995> not available
-(Font)              size <20.74> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.4399> not available
-(Font)              size <14.4> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.59998> not available
-(Font)              size <10> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <19.19995> not available
-(Font)              size <20.74> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.4399> not available
-(Font)              size <14.4> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <9.59998> not available
-(Font)              size <10> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <19.19995> not available
-(Font)              size <20.74> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.4399> not available
-(Font)              size <14.4> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <9.59998> not available
-(Font)              size <10> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <19.19995> not available
-(Font)              size <20.74> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <13.4399> not available
-(Font)              size <14.4> substituted on input line 122.
-
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <9.59998> not available
-(Font)              size <10> substituted on input line 122.
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing { inserted.
-<to be read again> 
-                   }
-l.122  }
-        
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.122  }
-        
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.122  }
-        
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.122  }
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
 [][]
  []
@@ -1837,30 +1506,24 @@ Package pdftex.def Info: background.png used on input line 122.
 [23] (./certificados.aux)
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.54005pt have occurred.
+(Font)              up to 1.28pt have occurred.
 
- )
-(\end occurred inside a group at level 2)
-
-### simple group (level 2) entered at line 122 ({)
-### simple group (level 1) entered at line 122 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 7491 strings out of 495028
- 103647 string characters out of 6181497
- 253978 words of memory out of 5000000
- 10536 multiletter control sequences out of 15000+600000
- 32449 words of font info for 50 fonts, out of 8000000 for 9000
+ 7469 strings out of 495028
+ 103253 string characters out of 6181497
+ 253974 words of memory out of 5000000
+ 10515 multiletter control sequences out of 15000+600000
+ 30174 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,14n,65p,881b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb>
-Output written on certificados.pdf (23 pages, 210875 bytes).
+ 57i,13n,65p,881b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvbo8a.pfb>
+Output written on certificados.pdf (23 pages, 203171 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
