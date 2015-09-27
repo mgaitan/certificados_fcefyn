@@ -1,0 +1,123 @@
+\documentclass[16pt,a4paper]{scrartcl}              %class
+\usepackage[landscape,left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry} %for layout
+\usepackage{setspace} % for spacing between lines
+\usepackage{graphicx}         %for including images
+\usepackage{eso-pic}     %package for including background image
+\usepackage{color}
+
+\usepackage[spanish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{times}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\addtolength{\textheight}{-1cm}
+%\addtolength{\textwidth}{-1cm}
+%\addtolength{\hoffset}{-.5cm}
+
+\pagestyle{empty}
+
+%\definecolor{a}{rgb}{0,0.08,0.45}
+\definecolor{a}{rgb}{0,0.317,0.53}
+
+\definecolor{red}{rgb}{0.5,0,0}
+
+\definecolor{g}{rgb}{0.137,0.3,0.235}
+%\definecolor{g}{rgb}{0,0.3,0.2}
+%---------------------------------------------------------------
+ \newcommand\BackgroundPic{
+ \put(0,0){
+ \parbox[b][\paperheight]{\paperwidth}{%
+ \vfill
+ \centering
+ \includegraphics[width=\paperwidth,height=\paperheight]{background.png}              % here include background image
+ \vfill
+ }}}
+
+%----------------------------------------------------------------
+%=============================
+\usepackage{datatool}  % This package is required to include database file as .csv
+\DTLloaddb{name}{data.csv}       % data.csv includes information from database
+ %=============================
+%=============================
+\def\signature#1#2{\parbox[b]{1in}{\smash{#1}\vskip12pt}
+\hfill \parbox[t]{2.8in}{\shortstack{\vrule width 2.5in height 0.4pt\\\small#2}}}
+\def\sigskip{\vskip0.4in plus 0.1in}
+        \def\beginskip{\vskip0.5875in plus 0.1in}
+%=============================
+ \begin{document}
+ \AddToShipoutPicture{\BackgroundPic}     % here background image is called
+%=============================
+ \DTLforeach{name}{
+ \apellido=apellido, \dni=dni, \nombres=nombres}{
+ %=============================
+~\\
+ \noindent
+\begin{minipage}[l]{1.9in}
+%\includegraphics[width=1.9in]{logo_fcefyn.jpg}  %Here include left side image
+\end{minipage}
+ \hfill
+ %=============================
+\begin{minipage}[c]{5.8in}
+{\centering
+{\onehalfspacing
+    {\bfseries\large Escuela de Ingeniería en Computación}\\
+   {\bfseries\color{g} Facultad de Ciencias Exactas, Físicas y Naturales}\\
+   {\bfseries\color{a} Universidad Nacional de Córdoba}\\
+    }}
+\end{minipage}
+ \hfill
+ %=============================
+\begin{minipage}[r]{1.9in}
+%\includegraphics[width=1.9in]{logo_unc.jpg}  %Here include left side image
+\end{minipage}
+\hfill
+
+%=============================
+\vspace{2cm}
+\noindent
+\begin{minipage}[l]{1.5in}
+\end{minipage}
+ \hfill
+ %=============================
+\begin{minipage}[c]{6.5in}
+{\centering
+{\LARGE\bfseries\color{a} ~\\ @CURSO@}\\ }
+\end{minipage}
+ \hfill
+%=============================
+\begin{minipage}[r]{1.0in}
+\end{minipage}
+\hfill
+%=============================
+
+\vspace{1cm}
+\center{{\large \bfseries
+    Se certifica que {{{\textsl{\color{a} \nombres\ \apellido}}}}, DNI {{{\dni}}},\\
+    completó el curso de "@CURSO@" \\
+    de @HS@hs. de duración aprobado por Res. @NRORES@,\\
+    en el mes de @MES@ de @YEAR@.
+
+}}
+
+\noindent
+%\beginskip
+{\singlespacing
+\vfill
+\begin{minipage}[l]{2.3in}
+ \sigskip \signature{}{\bfseries\tiny\color{a} Ing. Maximiliano Eschoyez \\ \bfseries\tiny\color{a} Director de Esc. Ing. en Computación }
+\end{minipage}
+\hfill
+\begin{minipage}[c]{2.3in}
+\sigskip \signature{}{\bfseries\tiny\color{a} Ing. Orlando Micolini \\ \bfseries\tiny\color{a} Secretario de Extensión }
+\end{minipage}
+\hfill
+\begin{minipage}[r]{2.3in}
+\sigskip \signature{}{\bfseries\tiny\color{a} @PROFE@ \\ \bfseries\tiny\color{a} Docente }
+\end{minipage}}
+
+%=============================
+ \pagebreak
+ }
+\end{document}
